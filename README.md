@@ -6,5 +6,4 @@
 - [VMWHERE2](vmwhere2/README.md)
 - *TBD*
 
-I played the UIUCTF 2023 with **`l3ak`** this weekend. Here are a few of the reverse engineering solves I worked on during the competition.
-
+I played the UIUCTF 2023 with **`l3ak`** this weekend. We got `33rd place` with `	1486.000 points`. Here are a few writeup on the challenges I worked on during the competition.
