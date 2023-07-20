@@ -92,7 +92,7 @@ call 1 2
 Is equivalent to:
 ```py
 _1 = constants[0] #"Welcome to geoguesser!"
-_2 =  constance[1] # <cfunction print>
+_2 =  constants[1] # <cfunction print>
 _2(_1)
 ```
 Which just prints "Welcome to geoguesser!". The code itself is pretty short so we can skim through this. We can see that later in the bytecode,
